@@ -1,2 +1,2 @@
 # Chakra-BMS
-This is open source BMS for EVs and Energy storage
+This is open source BMS for EVs and Energy storage Applications.
